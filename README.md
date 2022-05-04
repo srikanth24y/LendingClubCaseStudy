@@ -19,7 +19,7 @@
 - What is the business probem that your project is trying to solve?
     - To understand the driving factors (or driver variables) behind loan default
 - What is the dataset that is being used?
-    - The complete loan data for all loans issued through the time period 2007 t0 2011
+    - The complete loan data for all loans issued through the time period 2007 to 2011
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
